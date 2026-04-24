@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Shinde!</h1>
 
-<h3 align="center">📊 Data Analyst |Excel | 🐍 Python | SQL Enthusiast | 📈 Power BI & Tableau</h3>
+<h3 align="center">📊 Data Analyst | Excel | 🐍 Python | SQL  | 📈 Power BI & Tableau</h3>
 <p align="center">
   <em>MCA Graduate · MIT Aurangabad · Based in Pune, India</em>
 </p>
@@ -78,8 +78,8 @@
 ## 📫 Connect With Me
 
 - 📍 **Location:** Pune, Maharashtra, India
-- 📧 **Email:** [your.email@gmail.com](mailto:shindeabhishek233@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/www.linkedin.com/in/abhishek-shinde-7121b72b6)
+- 📧 **Email:** [shindeabhishek233@gmail.com](mailto:shindeabhishek233@gmail.com)
+- 💼 **LinkedIn:** [Abhishek Shinde](https://linkedin.com/in/www.linkedin.com/in/abhishek-shinde-7121b72b6)
 
 ---
 
