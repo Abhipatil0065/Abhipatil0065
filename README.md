@@ -1,4 +1,4 @@
-<h1 align="center"> Abhishek Shinde!</h1>
+<h1 align="center"> Abhishek Shinde </h1>
 
 <h3 align="center">📊 Data Analyst | Excel | 🐍 Python | SQL  | 📈 Power BI & Tableau</h3>
 <p align="center">
