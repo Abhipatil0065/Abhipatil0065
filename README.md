@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-shinde-7121b72b6">
+<a href="www.linkedin.com/in/abhishek-shinde-7121b72b6">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:shindeabhishek233@gmail.com">
