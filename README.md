@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Abhishek Shinde!</h1>
+<h1 align="center"> Abhishek Shinde!</h1>
 
 <h3 align="center">📊 Data Analyst | Excel | 🐍 Python | SQL  | 📈 Power BI & Tableau</h3>
 <p align="center">
@@ -57,21 +57,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhipatil0065&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
 
----
 
-## 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhipatil0065/Abhipatil0065/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 
 
