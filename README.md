@@ -1,82 +1,85 @@
-<!-- TYPING INTRO -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abhishek+Shinde;Aspiring+Data+Analyst;Python+|+SQL+|+Power+BI;Turning+Data+into+Insights+📊" />
-</p>
+<h1 align="center">Hey there 👋, I'm Abhishek Shinde</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Power BI</h3>
 
 ---
 
-<h1 align="center">👨‍💻 Abhishek Shinde</h1>
-<h3 align="center">📊 Data Analyst | Python • SQL • Power BI</h3>
+## 🌟 Welcome to my GitHub!
+I'm passionate about building real-world data projects, learning new technologies, and turning data into meaningful insights 📈  
+
+Here, you'll find:
+- 🚀 Projects I'm building & improving  
+- 📚 Things I'm learning (Data Analytics, SQL, Python)  
+- 💡 Insights from real-world datasets  
+
+Let’s grow together — one project at a time 🤝  
 
 ---
 
-## 🌟 About Me  
-- 🎓 MCA Student  
-- 📊 Passionate about Data Analysis & Visualization  
-- 🧠 Strong in SQL, Python & Dashboarding  
-- 🚀 Building real-world projects for portfolio  
-  
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-<a href="www.linkedin.com/in/abhishek-shinde-7121b72b6">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:shindeabhishek233@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/your-username" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack  
-<p align="center">
+## 🧰 Tech Stack:
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,pandas,numpy,matplotlib,git,github" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhipatil0065&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
 
 ---
 
+## 🔥 Featured Projects:
+- ☕ **Coffee Shop Sales Analysis (Python)**  
+  → Sales trends, peak hours, customer insights  
 
+- 🛒 **Walmart Data Analysis Dashboard (Power BI)**  
+  → Revenue, transactions, regional performance  
 
----
-
-## 📈 Current Focus  
-- 🔥 Advanced SQL & Window Functions  
-- 📊 Dashboard Design (Power BI)  
-- 🐍 Python for Data Analysis  
-- 💼 Preparing for Data Analyst Interviews  
-
----
-
-## 🧠 Learning Journey  
-- 📅 Daily practice in SQL & Python  
-- 📊 Building portfolio projects  
-- 📚 Learning statistics for analytics  
+- 🏦 **Bank Customer Churn Analysis**  
+  → Predict churn & retention insights  
 
 ---
 
-## 👀 Profile Views  
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blue&style=flat"/>
+## 📈 Current Focus:
+- 🧠 Mastering SQL & Advanced Queries  
+- 📊 Building Interactive Dashboards  
+- 🐍 Improving Python for Data Analysis  
+- 💼 Preparing for Data Analyst Roles  
+
+---
+
+## 👀 Profile Views:
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💡 Fun Fact  
-I can turn messy data into meaningful insights 📊✨  
+## ✨ Fun Fact:
+I love turning raw data into meaningful stories 📊✨  
 
 ---
 
-⭐️ From [Abhishek Shinde](https://github.com/Abhipatil0065)
+⭐️ From [Abhishek Shinde](https://github.com/your-username)
