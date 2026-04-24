@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Shinde</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Power BI</h3>
+<h1 align="center"> Abhishek Shinde</h1>
+<h3 align="center">📊 Data Analyst | Python • SQL • Power BI</h3>
 
 ---
 
