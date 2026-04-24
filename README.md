@@ -48,34 +48,7 @@
 
 ---
 
-## 🚀 Featured Projects  
 
-### ☕ Coffee Shop Sales Analysis  
-📌 Python | Pandas | Matplotlib  
-✔ Analyzed sales trends & peak hours  
-✔ Identified top-selling products  
-✔ Improved business decision insights  
-
-🔗 [View Project](https://github.com/your-username/coffee-project)
-
----
-
-### 🛒 Walmart Data Analysis Dashboard  
-📌 Power BI | SQL  
-✔ Built interactive dashboard  
-✔ Revenue vs Target analysis  
-✔ Regional performance insights  
-
-🔗 [View Project](https://github.com/your-username/walmart-project)
-
----
-
-### 🏦 Bank Customer Churn Analysis  
-📌 Python | Machine Learning  
-✔ Predicted customer churn  
-✔ Identified retention strategies  
-
-🔗 [View Project](https://github.com/your-username/churn-project)
 
 ---
 
